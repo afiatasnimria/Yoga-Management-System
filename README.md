@@ -1,5 +1,5 @@
 # 🧘 Yoga Center Management System  
-### 🌐 Web-Based Project
+### 🌐 Web Programming-Based Project
 
 A complete web-based management system developed to handle the daily operations of a yoga center efficiently.  
 This application digitalizes administrative tasks such as member management, trainer assignment, class scheduling, attendance tracking, and payment records.
